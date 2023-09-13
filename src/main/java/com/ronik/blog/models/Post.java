@@ -3,7 +3,7 @@ package com.ronik.blog.models;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
-import jjavax.persistence.Id;
+import javax.persistence.Id;
 
 @Entity
 public class Post {
